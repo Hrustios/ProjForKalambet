@@ -9,7 +9,7 @@ import requests
 import g4f
 
 # Токен бота
-API_TOKEN = '7527969470:AAHkLn8RnbPqn7HtH27VNtMKDB_6saPYcVw'
+API_TOKEN = 'Api_Token'
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
